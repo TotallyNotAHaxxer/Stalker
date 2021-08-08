@@ -1,3 +1,5 @@
+
+
 what is stalker?
 
 stalker is a neet, lightweight, simple, osint framework built from pure python3, it is possibly one of the simplest you can get when it comes to tracing numbers, IP's, Scanning Ports, mining twitter information, and gathering account info from github, you can even spy on discord channels 
@@ -15,6 +17,9 @@ then run chmod +x ./install.sh
 then ./install.sh
 
 omce done run python3 main.py 
+
+
+to see demo =====> okoscreenNG-2021-08-07_17-34-24.mkv
 
 note about the discord module ###########
 
